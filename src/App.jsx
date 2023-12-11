@@ -56,7 +56,7 @@ function App() {
             </div>
             <div className="col-6">
             <h3 className='mb-3'>Menu:</h3>
-              <img src="https://tortastradiciontapatia.com/images/menu1.jpg" alt="" width={"550px"}/>
+              <img src="https://tortastradiciontapatia.com/images/menu1.jpg" className='img-fluid' alt="" width={"550px"}/>
             </div>
 
             <div className="col-6">
